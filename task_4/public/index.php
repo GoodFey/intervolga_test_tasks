@@ -54,7 +54,7 @@ function changeNode($node, &$wordsCount, $wordLimit, &$wordsLimitAvailable)
                     }
                 }
                 $currentArray[] = ' ';
-                print_r($currentArray);
+
 
                 // Преобразую словарь в строку и меняю старое значение value у ноды на новое
 
